@@ -7,4 +7,4 @@ Features to develop :
 * Load this [awesome youtube video](https://www.youtube.com/watch?v=J---aiyznGQ) inside the lightbox 
 * Play automatically the youtube video on the lightbox opening
 * Close automatically the lightbox at the end of the video
-* (A plus) don't use pur javascript (without jQuery or any libraries) to do theses features 
+* (A plus) Use pur javascript (without jQuery or any libraries) to code theses features 
